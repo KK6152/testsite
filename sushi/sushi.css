@@ -1,0 +1,35 @@
+h1{
+    color: green;
+}
+p{
+    color: gray;
+    font-size: 18px;
+}
+.foo{
+    color: red;
+}
+#squid{
+    color: gray;
+    font-size: 30px;
+}
+h2{
+    background-color: blue;
+    width: 400px;
+    height: 200px;
+    margin: 20px;
+    padding: 50px;
+}
+li{
+    background-color: yellow;
+    width: 200px;
+    padding: 50px;
+    margin: 30px;
+    border:solid 5px black;
+}
+ul{
+    background-color: aqua;
+    width: 500px;
+    padding: 10px;
+    border: double 7px red;
+    
+}
